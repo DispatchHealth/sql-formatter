@@ -7,7 +7,7 @@ module.exports = {
     filename: 'sql-formatter.js',
     library: 'sqlFormatter',
     libraryTarget: 'umd',
-    hashFunction: 'sha256',
+    hashFunction: 'md5',
   },
   module: {
     rules: [
