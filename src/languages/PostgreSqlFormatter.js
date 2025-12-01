@@ -531,6 +531,8 @@ export default class PostgreSqlFormatter extends Formatter {
         '!!',
         '||',
         '&&',
+        '<%',
+        '%>',
         '<->',
         '<<->',
         '<->>',
